@@ -1,4 +1,4 @@
-"""V4 search settings and the manual reference weights used to initialise GA."""
+"""Search settings and manual reference weights for evaluation-weight learning."""
 
 
 class Defines:
