@@ -1,0 +1,25 @@
+Load game engine black: /Users/toma/Downloads/STUDY & MASTERS/+UJM/M2 2026:27/M2 1st semester/Art Int/connect6/tbe_engine/v3_threat_evaluation/main.py
+Load game engine white: /Users/toma/Downloads/STUDY & MASTERS/+UJM/M2 2026:27/M2 1st semester/Art Int/connect6/tbe_engine/v4_search_optimisations/main.py
+metrics {"nodes": 0, "pruned": 0, "cutoffs": 0, "depth_reached": 0, "timed_out": false, "seconds": 8.670904207974672e-05}
+metrics {"nodes": 38, "pruned": 42, "cutoffs": 6, "depth_reached": 2, "timed_out": false, "q_nodes": 30, "q_depth_reached": 0, "forward_pruned": 467, "quiescence": true, "forward_pruning": true, "seconds": 0.3967059580027126}
+metrics {"nodes": 141, "pruned": 483, "cutoffs": 21, "depth_reached": 2, "timed_out": false, "seconds": 1.5073117080028169}
+metrics {"nodes": 256, "pruned": 1183, "cutoffs": 67, "depth_reached": 2, "timed_out": false, "q_nodes": 248, "q_depth_reached": 1, "forward_pruned": 330, "quiescence": true, "forward_pruning": true, "seconds": 2.041478166996967}
+metrics {"nodes": 74, "pruned": 508, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.0964885409921408}
+metrics {"nodes": 182, "pruned": 198, "cutoffs": 10, "depth_reached": 2, "timed_out": false, "q_nodes": 179, "q_depth_reached": 1, "forward_pruned": 121, "quiescence": true, "forward_pruning": true, "seconds": 0.7601066250354052}
+metrics {"nodes": 187, "pruned": 437, "cutoffs": 19, "depth_reached": 2, "timed_out": false, "seconds": 1.4222724169958383}
+metrics {"nodes": 346, "pruned": 1978, "cutoffs": 92, "depth_reached": 2, "timed_out": false, "q_nodes": 334, "q_depth_reached": 1, "forward_pruned": 305, "quiescence": true, "forward_pruning": true, "seconds": 3.5076215000008233}
+metrics {"nodes": 76, "pruned": 506, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 1.059074375021737}
+metrics {"nodes": 130, "pruned": 845, "cutoffs": 43, "depth_reached": 2, "timed_out": false, "q_nodes": 127, "q_depth_reached": 1, "forward_pruned": 83, "quiescence": true, "forward_pruning": true, "seconds": 1.461393958015833}
+metrics {"nodes": 74, "pruned": 466, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 0.9719075000029989}
+metrics {"nodes": 86, "pruned": 411, "cutoffs": 24, "depth_reached": 2, "timed_out": false, "q_nodes": 83, "q_depth_reached": 1, "forward_pruned": 76, "quiescence": true, "forward_pruning": true, "seconds": 0.6999260830343701}
+metrics {"nodes": 76, "pruned": 329, "cutoffs": 20, "depth_reached": 2, "timed_out": false, "seconds": 0.5416925000026822}
+metrics {"nodes": 51, "pruned": 200, "cutoffs": 21, "depth_reached": 2, "timed_out": false, "q_nodes": 49, "q_depth_reached": 1, "forward_pruned": 48, "quiescence": true, "forward_pruning": true, "seconds": 0.4222112499992363}
+metrics {"nodes": 99, "pruned": 174, "cutoffs": 19, "depth_reached": 2, "timed_out": false, "seconds": 0.5101861660368741}
+metrics {"nodes": 54, "pruned": 361, "cutoffs": 24, "depth_reached": 2, "timed_out": false, "q_nodes": 51, "q_depth_reached": 1, "forward_pruned": 90, "quiescence": true, "forward_pruning": true, "seconds": 0.6459918749751523}
+metrics {"nodes": 98, "pruned": 315, "cutoffs": 21, "depth_reached": 2, "timed_out": false, "seconds": 0.675423291977495}
+metrics {"nodes": 58, "pruned": 364, "cutoffs": 24, "depth_reached": 2, "timed_out": false, "q_nodes": 56, "q_depth_reached": 1, "forward_pruned": 54, "quiescence": true, "forward_pruning": true, "seconds": 0.6483712500194088}
+metrics {"nodes": 74, "pruned": 281, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 0.5361794169875793}
+metrics {"nodes": 52, "pruned": 237, "cutoffs": 21, "depth_reached": 2, "timed_out": false, "q_nodes": 49, "q_depth_reached": 1, "forward_pruned": 69, "quiescence": true, "forward_pruning": true, "seconds": 0.4700610000290908}
+metrics {"nodes": 95, "pruned": 124, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 0.5192877080407925}
+metrics {"nodes": 100, "pruned": 54, "cutoffs": 46, "depth_reached": 2, "timed_out": false, "q_nodes": 76, "q_depth_reached": 1, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 0.3285893340362236}
+metrics {"nodes": 6, "pruned": 0, "cutoffs": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.019666624953970313}

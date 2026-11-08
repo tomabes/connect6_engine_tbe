@@ -1,0 +1,18 @@
+Test positions against Cloudict (passed / played)
+
+category     v4_base     v4_QS     v4_FP  v4_QS+FP
+win1             2/2       2/2       2/2       2/2
+win2             2/2       2/2       2/2       2/2
+win3             2/2       2/2       2/2       2/2
+defend1          2/2       2/2       2/2       2/2
+defend2          2/2       2/2       2/2       2/2
+defend3          2/2       2/2       2/2       2/2
+start           12.5      10.5      13.5      11.0   (average own turns before the game ended or 15)
+
+First-move search metrics on the same 14 positions (average)
+
+version      seconds     nodes    pruned   depth   q_nodes  fwd_pruned  timeouts
+v4_base         1.18        77       287    2.00         0           0         0
+v4_QS           1.69       144       451    1.64       131           0         5
+v4_FP           0.43        51        98    2.00         0         159         0
+v4_QS+FP        1.37       137       417    1.71       127         137         4

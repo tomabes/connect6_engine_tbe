@@ -1,0 +1,9 @@
+toma@Tamaras-MacBook-Air tbe_gui % /Library/Frameworks/Python.framework/Versions/3.13/bin/python3 ConnectMore.py
+Load game engine black: /Users/toma/Downloads/STUDY & MASTERS/+UJM/M2 2026:27/M2 1st semester/Art Int/connect6/tbe_engine/v4_search_optimisations/main.py
+metrics {"nodes": 0, "pruned": 0, "cutoffs": 0, "depth_reached": 0, "timed_out": false, "q_nodes": 0, "q_depth_reached": 0, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 0.00013262504944577813}
+metrics {"nodes": 401, "pruned": 2288, "cutoffs": 123, "depth_reached": 1, "timed_out": true, "q_nodes": 397, "q_depth_reached": 2, "forward_pruned": 189, "quiescence": true, "forward_pruning": true, "seconds": 3.980027749959845}
+metrics {"nodes": 429, "pruned": 2101, "cutoffs": 158, "depth_reached": 1, "timed_out": true, "q_nodes": 426, "q_depth_reached": 2, "forward_pruned": 151, "quiescence": true, "forward_pruning": true, "seconds": 3.9800367080024444}
+metrics {"nodes": 361, "pruned": 2274, "cutoffs": 132, "depth_reached": 1, "timed_out": true, "q_nodes": 344, "q_depth_reached": 2, "forward_pruned": 62, "quiescence": true, "forward_pruning": true, "seconds": 3.9800205409992486}
+metrics {"nodes": 410, "pruned": 1965, "cutoffs": 109, "depth_reached": 1, "timed_out": true, "q_nodes": 403, "q_depth_reached": 2, "forward_pruned": 32, "quiescence": true, "forward_pruning": true, "seconds": 3.980026834004093}
+metrics {"nodes": 181, "pruned": 355, "cutoffs": 61, "depth_reached": 2, "timed_out": false, "q_nodes": 157, "q_depth_reached": 2, "forward_pruned": 27, "quiescence": true, "forward_pruning": true, "seconds": 0.9394352500094101}
+metrics {"nodes": 8, "pruned": 0, "cutoffs": 0, "depth_reached": 2, "timed_out": false, "q_nodes": 4, "q_depth_reached": 0, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 0.00835679197916761}

@@ -1,0 +1,94 @@
+\begin{thebibliography}{14}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allis(1994)]{allis1994}
+L.~Victor Allis.
+\newblock \emph{Searching for Solutions in Games and Artificial Intelligence}.
+\newblock PhD thesis, University of Limburg, Maastricht, 1994.
+
+\bibitem[Baxter et~al.(2000)Baxter, Tridgell, and Weaver]{baxter2000tdleaf}
+Jonathan Baxter, Andrew Tridgell, and Lex Weaver.
+\newblock Learning to play chess using temporal differences.
+\newblock \emph{Machine Learning}, 40\penalty0 (3):\penalty0 243--263, 2000.
+
+\bibitem[{Chess Programming Wiki}(2026)]{texel}
+{Chess Programming Wiki}.
+\newblock Texel's tuning method.
+\newblock \url{https://www.chessprogramming.org/Texel's_Tuning_Method}, 2026.
+\newblock Accessed November 2026.
+
+\bibitem[Escalona~Monchol{\'i}(2026{\natexlab{a}})]{connect6gui}
+F{\'e}lix Escalona~Monchol{\'i}.
+\newblock {Connect6GUI} and {Connect6Engine}.
+\newblock \url{https://github.com/felixem/Connect6GUI},
+  \url{https://github.com/felixem/Connect6Engine}, 2026{\natexlab{a}}.
+\newblock Accessed November 2026.
+
+\bibitem[Escalona~Monchol{\'i}(2026{\natexlab{b}})]{statement}
+F{\'e}lix Escalona~Monchol{\'i}.
+\newblock Practice 1. {Connect} 6 game engine: Statement and guide.
+\newblock Computer Science and Artificial Intelligence, University of Alicante,
+  2026{\natexlab{b}}.
+
+\bibitem[Knuth and Moore(1975)]{knuth1975alphabeta}
+Donald~E. Knuth and Ronald~W. Moore.
+\newblock An analysis of alpha-beta pruning.
+\newblock \emph{Artificial Intelligence}, 6\penalty0 (4):\penalty0 293--326,
+  1975.
+
+\bibitem[lang010(2026)]{cloudict}
+lang010.
+\newblock Cloudict: a {Connect6} engine.
+\newblock \url{https://github.com/lang010/cloudict}, 2026.
+\newblock Accessed November 2026.
+
+\bibitem[Liu(2009)]{liu_defensive}
+Yung-ching Liu.
+\newblock A defensive strategy combined with threat-space search for
+  {Connect6}.
+\newblock Master's thesis, National Taiwan Normal University, 2009.
+
+\bibitem[Russell and Norvig(2020)]{russell2020aima}
+Stuart Russell and Peter Norvig.
+\newblock \emph{Artificial Intelligence: A Modern Approach}.
+\newblock Pearson, 4th edition, 2020.
+
+\bibitem[Sz{\H{o}}ts and Harmati(2018)]{szots2018gomoku}
+J{\'a}nos Sz{\H{o}}ts and Istv{\'a}n Harmati.
+\newblock Development of an incremental pattern extraction based {Gomoku}
+  agent.
+\newblock \emph{Periodica Polytechnica Electrical Engineering and Computer
+  Science}, 62\penalty0 (4):\penalty0 155--164, 2018.
+\newblock \doi{10.3311/PPee.11952}.
+
+\bibitem[Veness et~al.(2009)Veness, Silver, Uther, and
+  Blair]{veness2009bootstrapping}
+Joel Veness, David Silver, William Uther, and Alan Blair.
+\newblock Bootstrapping from game tree search.
+\newblock In \emph{Advances in Neural Information Processing Systems 22 (NIPS
+  2009)}, pages 1937--1945, 2009.
+
+\bibitem[Wu and Huang(2006)]{wu2005family}
+I-Chen Wu and Dei-Yen Huang.
+\newblock A new family of k-in-a-row games.
+\newblock In \emph{Advances in Computer Games (ACG 11)}, volume 4250 of
+  \emph{Lecture Notes in Computer Science}, pages 180--194. Springer, 2006.
+
+\bibitem[Wu and Lin(2010)]{wu2010rzop}
+I-Chen Wu and Ping-Hung Lin.
+\newblock Relevance-zone-oriented proof search for {Connect6}.
+\newblock \emph{IEEE Transactions on Computational Intelligence and AI in
+  Games}, 2\penalty0 (3):\penalty0 191--207, 2010.
+
+\bibitem[Wu et~al.(2012)Wu, Tsai, Lin, Lin, Chang, and Lin]{wu2012td}
+I-Chen Wu, Hsin-Ti Tsai, Hung-Hsuan Lin, Yi-Shan Lin, Chieh-Min Chang, and
+  Ping-Hung Lin.
+\newblock Temporal difference learning for {Connect6}.
+\newblock In \emph{Advances in Computer Games (ACG 2011)}, volume 7168 of
+  \emph{Lecture Notes in Computer Science}, pages 121--133. Springer, 2012.
+
+\end{thebibliography}

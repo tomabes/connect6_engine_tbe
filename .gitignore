@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+.venv/
+
+# Temporary LaTeX build files; keep sources, bibliography and final PDFs
+*.aux
+*.log
+*.out
+*.blg
+*.synctex.gz

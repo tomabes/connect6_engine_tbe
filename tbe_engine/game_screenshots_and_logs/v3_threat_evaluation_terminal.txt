@@ -1,0 +1,9 @@
+toma@Tamaras-MacBook-Air tbe_gui % /Library/Frameworks/Python.framework/Versions/3.13/bin/python3 ConnectMore.py
+Load game engine black: /Users/toma/Downloads/STUDY & MASTERS/+UJM/M2 2026:27/M2 1st semester/Art Int/connect6/tbe_engine/v3_threat_evaluation/main.py
+metrics {"nodes": 0, "pruned": 0, "cutoffs": 0, "depth_reached": 0, "timed_out": false, "seconds": 9.225000394508243e-05}
+metrics {"nodes": 118, "pruned": 506, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 1.4774079999770038}
+metrics {"nodes": 118, "pruned": 506, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 1.4290650420007296}
+metrics {"nodes": 97, "pruned": 485, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 1.10540724999737}
+metrics {"nodes": 76, "pruned": 401, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 0.609801915998105}
+metrics {"nodes": 99, "pruned": 296, "cutoffs": 17, "depth_reached": 2, "timed_out": false, "seconds": 0.6777935409918427}
+metrics {"nodes": 4, "pruned": 0, "cutoffs": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.006275833991821855}

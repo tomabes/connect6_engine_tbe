@@ -1,0 +1,52 @@
+{
+  "selfplay_games": 562,
+  "labelled_positions": 3675,
+  "train_positions": 2958,
+  "val_positions": 717,
+  "scale_k": 108.0,
+  "manual_train_loss": 0.6621742934136785,
+  "manual_val_loss": 0.6496017800301597,
+  "learned_train_loss": 0.6439528425258725,
+  "learned_val_loss": 0.6370767456277037,
+  "best_epoch": 705,
+  "control_games": 24,
+  "control_wins": 11,
+  "control_losses": 13,
+  "control_draws": 0,
+  "control_score": 0.4583333333333333,
+  "manual_weights": {
+    "line_1": 1,
+    "line_2": 4,
+    "line_3": 16,
+    "line_4": 64,
+    "line_5": 256,
+    "threat_1": 600,
+    "threat_2": 3000,
+    "threat_3": 15000,
+    "connectivity": 2
+  },
+  "learned_weights": {
+    "line_1": 0.966,
+    "line_2": 4.286,
+    "line_3": 5.149,
+    "line_4": 64,
+    "line_5": 256,
+    "threat_1": 600,
+    "threat_2": 3000,
+    "threat_3": 15000,
+    "connectivity": 1.36
+  },
+  "chosen": "manual",
+  "chosen_weights": {
+    "line_1": 1,
+    "line_2": 4,
+    "line_3": 16,
+    "line_4": 64,
+    "line_5": 256,
+    "threat_1": 600,
+    "threat_2": 3000,
+    "threat_3": 15000,
+    "connectivity": 2
+  },
+  "minutes": 17.170290950934092
+}

@@ -1,0 +1,17 @@
+Last login: Fri Oct 30 17:05:02 on ttys000
+toma@Tamaras-MacBook-Air ~ % cd "/Users/toma/Downloads/STUDY & MASTERS/+UJM/M2 2026:27/M2 1st semester/Art Int/connect6/tbe_gui"
+/Library/Frameworks/Python.framework/Versions/3.13/bin/python3 ConnectMore.py
+Load game engine black:
+Load game engine black: /Users/toma/Downloads/STUDY & MASTERS/+UJM/M2 2026:27/M2 1st semester/Art Int/connect6/tbe_engine/v1_baseline/main.py
+metrics {"nodes": 0, "pruned": 0, "depth_reached": 0, "timed_out": false, "seconds": 4.979199729859829e-05}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.299969959014561}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.29419854196021333}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.3168607499683276}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.29998541600070894}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.29181575000984594}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.3254247499862686}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.3020911250496283}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.2948344169999473}
+metrics {"nodes": 624, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.30831362499156967}
+metrics {"nodes": 600, "pruned": 0, "depth_reached": 2, "timed_out": false, "seconds": 0.3013723340118304}
+toma@Tamaras-MacBook-Air tbe_gui %

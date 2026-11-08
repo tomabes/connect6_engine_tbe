@@ -1,0 +1,432 @@
+[
+ {
+  "name": "win1_black",
+  "category": "win1",
+  "engine_color": 1,
+  "history": [
+   [
+    1,
+    "FJ"
+   ],
+   [
+    2,
+    "HLLH"
+   ],
+   [
+    1,
+    "GJHJ"
+   ],
+   [
+    2,
+    "ENSS"
+   ],
+   [
+    1,
+    "IJAA"
+   ],
+   [
+    2,
+    "GAMS"
+   ]
+  ]
+ },
+ {
+  "name": "defend1_black",
+  "category": "defend1",
+  "engine_color": 2,
+  "history": [
+   [
+    1,
+    "FJ"
+   ],
+   [
+    2,
+    "HLLH"
+   ],
+   [
+    1,
+    "GJHJ"
+   ],
+   [
+    2,
+    "ENSS"
+   ],
+   [
+    1,
+    "IJAA"
+   ]
+  ]
+ },
+ {
+  "name": "win1_white",
+  "category": "win1",
+  "engine_color": 2,
+  "history": [
+   [
+    1,
+    "HH"
+   ],
+   [
+    2,
+    "JFJG"
+   ],
+   [
+    1,
+    "LLFE"
+   ],
+   [
+    2,
+    "JHJI"
+   ],
+   [
+    1,
+    "AASS"
+   ]
+  ]
+ },
+ {
+  "name": "defend1_white",
+  "category": "defend1",
+  "engine_color": 1,
+  "history": [
+   [
+    1,
+    "HH"
+   ],
+   [
+    2,
+    "JFJG"
+   ],
+   [
+    1,
+    "LLFE"
+   ],
+   [
+    2,
+    "JHJI"
+   ]
+  ]
+ },
+ {
+  "name": "win2_black",
+  "category": "win2",
+  "engine_color": 1,
+  "history": [
+   [
+    1,
+    "GF"
+   ],
+   [
+    2,
+    "JJDN"
+   ],
+   [
+    1,
+    "HFIF"
+   ],
+   [
+    2,
+    "KOSS"
+   ],
+   [
+    1,
+    "NKNL"
+   ],
+   [
+    2,
+    "GAMS"
+   ],
+   [
+    1,
+    "NMAA"
+   ],
+   [
+    2,
+    "MAGS"
+   ]
+  ]
+ },
+ {
+  "name": "defend2_black",
+  "category": "defend2",
+  "engine_color": 2,
+  "history": [
+   [
+    1,
+    "GF"
+   ],
+   [
+    2,
+    "JJDN"
+   ],
+   [
+    1,
+    "HFIF"
+   ],
+   [
+    2,
+    "KOSS"
+   ],
+   [
+    1,
+    "NKNL"
+   ],
+   [
+    2,
+    "GAMS"
+   ],
+   [
+    1,
+    "NMAA"
+   ]
+  ]
+ },
+ {
+  "name": "win2_white",
+  "category": "win2",
+  "engine_color": 2,
+  "history": [
+   [
+    1,
+    "JJ"
+   ],
+   [
+    2,
+    "NGNH"
+   ],
+   [
+    1,
+    "FDEK"
+   ],
+   [
+    2,
+    "NIIN"
+   ],
+   [
+    1,
+    "AASS"
+   ],
+   [
+    2,
+    "HNGN"
+   ],
+   [
+    1,
+    "GAMS"
+   ]
+  ]
+ },
+ {
+  "name": "defend2_white",
+  "category": "defend2",
+  "engine_color": 1,
+  "history": [
+   [
+    1,
+    "JJ"
+   ],
+   [
+    2,
+    "NGNH"
+   ],
+   [
+    1,
+    "FDEK"
+   ],
+   [
+    2,
+    "NIIN"
+   ],
+   [
+    1,
+    "AASS"
+   ],
+   [
+    2,
+    "HNGN"
+   ]
+  ]
+ },
+ {
+  "name": "win3_black",
+  "category": "win3",
+  "engine_color": 1,
+  "history": [
+   [
+    1,
+    "ED"
+   ],
+   [
+    2,
+    "OGDI"
+   ],
+   [
+    1,
+    "FDGD"
+   ],
+   [
+    2,
+    "PPAA"
+   ],
+   [
+    1,
+    "KMLM"
+   ],
+   [
+    2,
+    "SSGA"
+   ],
+   [
+    1,
+    "JNJO"
+   ],
+   [
+    2,
+    "MSMA"
+   ]
+  ]
+ },
+ {
+  "name": "defend3_black",
+  "category": "defend3",
+  "engine_color": 2,
+  "history": [
+   [
+    1,
+    "ED"
+   ],
+   [
+    2,
+    "OGDI"
+   ],
+   [
+    1,
+    "FDGD"
+   ],
+   [
+    2,
+    "PPAA"
+   ],
+   [
+    1,
+    "KMLM"
+   ],
+   [
+    2,
+    "SSGA"
+   ],
+   [
+    1,
+    "JNJO"
+   ]
+  ]
+ },
+ {
+  "name": "win3_white",
+  "category": "win3",
+  "engine_color": 2,
+  "history": [
+   [
+    1,
+    "MO"
+   ],
+   [
+    2,
+    "PEPF"
+   ],
+   [
+    1,
+    "KDDP"
+   ],
+   [
+    2,
+    "PGGK"
+   ],
+   [
+    1,
+    "AASS"
+   ],
+   [
+    2,
+    "GLFJ"
+   ],
+   [
+    1,
+    "GAMS"
+   ],
+   [
+    2,
+    "EJSA"
+   ],
+   [
+    1,
+    "MAGS"
+   ]
+  ]
+ },
+ {
+  "name": "defend3_white",
+  "category": "defend3",
+  "engine_color": 1,
+  "history": [
+   [
+    1,
+    "MO"
+   ],
+   [
+    2,
+    "PEPF"
+   ],
+   [
+    1,
+    "KDDP"
+   ],
+   [
+    2,
+    "PGGK"
+   ],
+   [
+    1,
+    "AASS"
+   ],
+   [
+    2,
+    "GLFJ"
+   ],
+   [
+    1,
+    "GAMS"
+   ],
+   [
+    2,
+    "EJMA"
+   ]
+  ]
+ },
+ {
+  "name": "start_white",
+  "category": "start",
+  "engine_color": 2,
+  "history": [
+   [
+    1,
+    "JJ"
+   ]
+  ]
+ },
+ {
+  "name": "start_black",
+  "category": "start",
+  "engine_color": 1,
+  "history": [
+   [
+    1,
+    "JJ"
+   ],
+   [
+    2,
+    "IKKK"
+   ]
+  ]
+ }
+]

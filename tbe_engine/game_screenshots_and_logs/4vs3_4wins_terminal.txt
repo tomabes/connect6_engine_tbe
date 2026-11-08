@@ -1,0 +1,32 @@
+toma@Tamaras-MacBook-Air tbe_gui % /Library/Frameworks/Python.framework/Versions/3.13/bin/python3 ConnectMore.py
+Load game engine black: /Users/toma/Downloads/STUDY & MASTERS/+UJM/M2 2026:27/M2 1st semester/Art Int/connect6/tbe_engine/v4_search_optimisations/main.py
+Load game engine white: /Users/toma/Downloads/STUDY & MASTERS/+UJM/M2 2026:27/M2 1st semester/Art Int/connect6/tbe_engine/v3_threat_evaluation/main.py
+metrics {"nodes": 0, "pruned": 0, "cutoffs": 0, "depth_reached": 0, "timed_out": false, "q_nodes": 0, "q_depth_reached": 0, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 5.420902743935585e-05}
+metrics {"nodes": 118, "pruned": 506, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 1.5982271670363843}
+metrics {"nodes": 217, "pruned": 1334, "cutoffs": 72, "depth_reached": 2, "timed_out": false, "q_nodes": 209, "q_depth_reached": 1, "forward_pruned": 330, "quiescence": true, "forward_pruning": true, "seconds": 2.050408624985721}
+metrics {"nodes": 99, "pruned": 462, "cutoffs": 21, "depth_reached": 2, "timed_out": false, "seconds": 1.0852571669965982}
+metrics {"nodes": 191, "pruned": 1024, "cutoffs": 56, "depth_reached": 2, "timed_out": false, "q_nodes": 183, "q_depth_reached": 1, "forward_pruned": 348, "quiescence": true, "forward_pruning": true, "seconds": 1.887766708037816}
+metrics {"nodes": 74, "pruned": 487, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.079574000032153}
+metrics {"nodes": 16, "pruned": 14, "cutoffs": 2, "depth_reached": 2, "timed_out": false, "q_nodes": 13, "q_depth_reached": 0, "forward_pruned": 131, "quiescence": true, "forward_pruning": true, "seconds": 0.1823493749834597}
+metrics {"nodes": 141, "pruned": 483, "cutoffs": 21, "depth_reached": 2, "timed_out": false, "seconds": 1.5075795000302605}
+metrics {"nodes": 296, "pruned": 1490, "cutoffs": 90, "depth_reached": 2, "timed_out": false, "q_nodes": 284, "q_depth_reached": 1, "forward_pruned": 296, "quiescence": true, "forward_pruning": true, "seconds": 2.8107499170000665}
+metrics {"nodes": 95, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.4724224579986185}
+metrics {"nodes": 305, "pruned": 1056, "cutoffs": 58, "depth_reached": 2, "timed_out": false, "q_nodes": 281, "q_depth_reached": 1, "forward_pruned": 96, "quiescence": true, "forward_pruning": true, "seconds": 2.0014910839963704}
+metrics {"nodes": 76, "pruned": 464, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 1.0966942500090227}
+metrics {"nodes": 74, "pruned": 438, "cutoffs": 25, "depth_reached": 2, "timed_out": false, "q_nodes": 71, "q_depth_reached": 1, "forward_pruned": 108, "quiescence": true, "forward_pruning": true, "seconds": 0.7710115830413997}
+metrics {"nodes": 74, "pruned": 487, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.1145952079677954}
+metrics {"nodes": 149, "pruned": 681, "cutoffs": 31, "depth_reached": 2, "timed_out": false, "q_nodes": 146, "q_depth_reached": 1, "forward_pruned": 100, "quiescence": true, "forward_pruning": true, "seconds": 1.1604438329814002}
+metrics {"nodes": 95, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.139265791978687}
+metrics {"nodes": 440, "pruned": 2066, "cutoffs": 93, "depth_reached": 1, "timed_out": true, "q_nodes": 434, "q_depth_reached": 1, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 3.980054832994938}
+metrics {"nodes": 73, "pruned": 482, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 0.6937178750522435}
+metrics {"nodes": 75, "pruned": 628, "cutoffs": 28, "depth_reached": 2, "timed_out": false, "q_nodes": 73, "q_depth_reached": 1, "forward_pruned": 54, "quiescence": true, "forward_pruning": true, "seconds": 1.1108342080260627}
+metrics {"nodes": 74, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.1144083340186626}
+metrics {"nodes": 126, "pruned": 1137, "cutoffs": 51, "depth_reached": 2, "timed_out": false, "q_nodes": 123, "q_depth_reached": 1, "forward_pruned": 88, "quiescence": true, "forward_pruning": true, "seconds": 1.9025787499849685}
+metrics {"nodes": 74, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.068408916995395}
+metrics {"nodes": 168, "pruned": 237, "cutoffs": 11, "depth_reached": 2, "timed_out": false, "q_nodes": 165, "q_depth_reached": 1, "forward_pruned": 108, "quiescence": true, "forward_pruning": true, "seconds": 0.8575173750286922}
+metrics {"nodes": 95, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.3814889159984887}
+metrics {"nodes": 533, "pruned": 1541, "cutoffs": 76, "depth_reached": 1, "timed_out": true, "q_nodes": 519, "q_depth_reached": 1, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 3.9800177500001155}
+metrics {"nodes": 32, "pruned": 46, "cutoffs": 2, "depth_reached": 2, "timed_out": false, "seconds": 0.2289371250080876}
+metrics {"nodes": 457, "pruned": 671, "cutoffs": 69, "depth_reached": 2, "timed_out": false, "q_nodes": 433, "q_depth_reached": 1, "forward_pruned": 24, "quiescence": true, "forward_pruning": true, "seconds": 2.014684166002553}
+metrics {"nodes": 75, "pruned": 39, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 0.24303016701014712}
+metrics {"nodes": 8, "pruned": 0, "cutoffs": 0, "depth_reached": 2, "timed_out": false, "q_nodes": 4, "q_depth_reached": 0, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 0.02255445800255984}

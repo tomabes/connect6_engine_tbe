@@ -1,0 +1,29 @@
+metrics {"nodes": 0, "pruned": 0, "cutoffs": 0, "depth_reached": 0, "timed_out": false, "q_nodes": 0, "q_depth_reached": 0, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 8.812500163912773e-05}
+metrics {"nodes": 118, "pruned": 506, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 1.5929619999951683}
+metrics {"nodes": 217, "pruned": 1334, "cutoffs": 72, "depth_reached": 2, "timed_out": false, "q_nodes": 209, "q_depth_reached": 1, "forward_pruned": 330, "quiescence": true, "forward_pruning": true, "seconds": 2.053500540961977}
+metrics {"nodes": 99, "pruned": 462, "cutoffs": 21, "depth_reached": 2, "timed_out": false, "seconds": 1.0793483749730512}
+metrics {"nodes": 191, "pruned": 1024, "cutoffs": 56, "depth_reached": 2, "timed_out": false, "q_nodes": 183, "q_depth_reached": 1, "forward_pruned": 348, "quiescence": true, "forward_pruning": true, "seconds": 1.8875758330104873}
+metrics {"nodes": 74, "pruned": 487, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.0763573329895735}
+metrics {"nodes": 16, "pruned": 14, "cutoffs": 2, "depth_reached": 2, "timed_out": false, "q_nodes": 13, "q_depth_reached": 0, "forward_pruned": 131, "quiescence": true, "forward_pruning": true, "seconds": 0.18266029201913625}
+metrics {"nodes": 141, "pruned": 483, "cutoffs": 21, "depth_reached": 2, "timed_out": false, "seconds": 1.5027099999715574}
+metrics {"nodes": 296, "pruned": 1490, "cutoffs": 90, "depth_reached": 2, "timed_out": false, "q_nodes": 284, "q_depth_reached": 1, "forward_pruned": 296, "quiescence": true, "forward_pruning": true, "seconds": 2.818216082989238}
+metrics {"nodes": 95, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.46405704197241}
+metrics {"nodes": 305, "pruned": 1056, "cutoffs": 58, "depth_reached": 2, "timed_out": false, "q_nodes": 281, "q_depth_reached": 1, "forward_pruned": 96, "quiescence": true, "forward_pruning": true, "seconds": 2.019315749988891}
+metrics {"nodes": 76, "pruned": 464, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 1.0982231250382029}
+metrics {"nodes": 74, "pruned": 438, "cutoffs": 25, "depth_reached": 2, "timed_out": false, "q_nodes": 71, "q_depth_reached": 1, "forward_pruned": 108, "quiescence": true, "forward_pruning": true, "seconds": 0.7737619590479881}
+metrics {"nodes": 74, "pruned": 487, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.0986713339807466}
+metrics {"nodes": 149, "pruned": 681, "cutoffs": 31, "depth_reached": 2, "timed_out": false, "q_nodes": 146, "q_depth_reached": 1, "forward_pruned": 100, "quiescence": true, "forward_pruning": true, "seconds": 1.1625272079836577}
+metrics {"nodes": 95, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.1350650420063175}
+metrics {"nodes": 440, "pruned": 2066, "cutoffs": 93, "depth_reached": 1, "timed_out": true, "q_nodes": 434, "q_depth_reached": 1, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 3.980026875040494}
+metrics {"nodes": 73, "pruned": 482, "cutoffs": 22, "depth_reached": 2, "timed_out": false, "seconds": 0.693417500006035}
+metrics {"nodes": 75, "pruned": 628, "cutoffs": 28, "depth_reached": 2, "timed_out": false, "q_nodes": 73, "q_depth_reached": 1, "forward_pruned": 54, "quiescence": true, "forward_pruning": true, "seconds": 1.110063000000082}
+metrics {"nodes": 74, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.1159845420042984}
+metrics {"nodes": 126, "pruned": 1137, "cutoffs": 51, "depth_reached": 2, "timed_out": false, "q_nodes": 123, "q_depth_reached": 1, "forward_pruned": 88, "quiescence": true, "forward_pruning": true, "seconds": 1.9025746249826625}
+metrics {"nodes": 74, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.0519587500020862}
+metrics {"nodes": 168, "pruned": 237, "cutoffs": 11, "depth_reached": 2, "timed_out": false, "q_nodes": 165, "q_depth_reached": 1, "forward_pruned": 108, "quiescence": true, "forward_pruning": true, "seconds": 0.8576135420007631}
+metrics {"nodes": 95, "pruned": 529, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 1.3720611670287326}
+metrics {"nodes": 533, "pruned": 1541, "cutoffs": 76, "depth_reached": 1, "timed_out": true, "q_nodes": 519, "q_depth_reached": 1, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 3.9800446670269594}
+metrics {"nodes": 32, "pruned": 46, "cutoffs": 2, "depth_reached": 2, "timed_out": false, "seconds": 0.23135966702830046}
+metrics {"nodes": 457, "pruned": 671, "cutoffs": 69, "depth_reached": 2, "timed_out": false, "q_nodes": 433, "q_depth_reached": 1, "forward_pruned": 24, "quiescence": true, "forward_pruning": true, "seconds": 1.9879362079664133}
+metrics {"nodes": 75, "pruned": 39, "cutoffs": 23, "depth_reached": 2, "timed_out": false, "seconds": 0.2420008329791017}
+metrics {"nodes": 8, "pruned": 0, "cutoffs": 0, "depth_reached": 2, "timed_out": false, "q_nodes": 4, "q_depth_reached": 0, "forward_pruned": 0, "quiescence": true, "forward_pruning": true, "seconds": 0.021028416987974197}

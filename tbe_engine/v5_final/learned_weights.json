@@ -1,0 +1,16 @@
+{
+  "engine": "tbe",
+  "version": 5,
+  "source": "manual",
+  "weights": {
+    "line_1": 1,
+    "line_2": 4,
+    "line_3": 16,
+    "line_4": 64,
+    "line_5": 256,
+    "threat_1": 600,
+    "threat_2": 3000,
+    "threat_3": 15000,
+    "connectivity": 2
+  }
+}

@@ -1,0 +1,29 @@
+Test positions against Cloudict (passed / played)
+
+category        v1      v2      v3      v4      v5
+win1      2/2     2/2     2/2     2/2     2/2     
+win2      0/2     2/2     2/2     2/2     2/2     
+win3      0/2     2/2     2/2     2/2     2/2     
+defend1   0/2     2/2     2/2     2/2     2/2     
+defend2   2/2     2/2     2/2     2/2     2/2     
+defend3   2/2     2/2     2/2     2/2     2/2     
+start          6.5    11.5    12.5    11.0    11.0   (average own turns before the game ended or 15)
+
+First-move search metrics on the same 14 positions (average)
+
+version    seconds     nodes    pruned   depth
+v1            0.41       614         0    2.00
+v2            0.16        80       254    2.00
+v3            1.30        77       287    2.00
+v4            1.43       126       363    1.71
+v5            1.40       126       367    1.71
+
+Tournament (win 1, draw 0.5; unfinished games not counted)
+
+player      points  wins  losses  draws  games
+cloudict      18.0    18       0      0     18
+v5             8.0     8       6      0     14
+v4             8.0     8       6      0     14
+v3             5.0     5       7      0     12
+v2             5.0     5       8      0     13
+v1             0.0     0      17      0     17
