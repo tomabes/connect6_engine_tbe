@@ -80,7 +80,7 @@ Connect6 is a two-player game of the $k$-in-a-row family. Black opens with a sin
 
 The game is very hard to search: on an empty board a move is chosen from $\binom{361}{2}\approx 65\,000$ pairs of cells, and in the middle game from tens of thousands. Even a depth of two full moves is therefore impossible without a strong restriction of candidates, pruning, and a good position evaluation.
 
-The work is organised as a chain of versions from v1 to v5, adding improvement. v4 added two techniques at once (quiescence and forward pruning); their contributions were separated in a dedicated experiment (Section~\ref{sec:ablation}). All experiments were run locally on a MacBook Air with Apple M1, 8\,GB RAM, macOS 26.5.2: games against a human through the ConnectMore GUI, tests, the tournament and training from the terminal. An example is shown on Fig.~\ref{fig:v2game}. Code: \todo{GitHub link}.
+The work is organised as a chain of versions from v1 to v5, adding improvement. v4 added two techniques at once (quiescence and forward pruning); their contributions were separated in a dedicated experiment (Section~\ref{sec:ablation}). All experiments were run locally on a MacBook Air with Apple M1, 8\,GB RAM, macOS 26.5.2: games against a human through the ConnectMore GUI, tests, the tournament and training from the terminal. An example is shown on Fig.~\ref{fig:v2game}. Code: \href{https://github.com/tomabes/connect6_engine_tbe}{GitHub link}.
 
 \begin{figure}[h]
 \centering
